@@ -36,6 +36,7 @@ def calcular_area(tipo, a, b=0):
         return math.pi * a * a
     else:
         return None
+```
 
 ❌ Problemas Identificados
 Má prática: múltiplas responsabilidades em uma única função
