@@ -1,6 +1,6 @@
 # 💻 Refatoração de Código com Clean Code e Design Patterns
 
-Este repositório contém a refatoração de um código legado utilizando os princípios do **Clean Code**, **SOLID**, e **Design Patterns**. A atividade foi desenvolvida para fins acadêmicos com o objetivo de demonstrar boas práticas de engenharia de software, especialmente em legibilidade, manutenibilidade e testabilidade de código.
+Este repositório contém a refatoração de um código utilizando os princípios do **Clean Code**, **SOLID**, e **Design Patterns**. A atividade foi desenvolvida para fins acadêmicos com o objetivo de demonstrar boas práticas, especialmente em legibilidade, manutenibilidade e testabilidade de código.
 
 ## 🎯 Objetivo da Atividade
 
