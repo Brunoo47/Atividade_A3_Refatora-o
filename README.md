@@ -70,10 +70,12 @@ DRY | Redução de duplicações através de abstrações
 KISS | Lógica simples e clara, sem overengineering
 
 
-📈 Versionamento
+📈 Versionamento:
+
 Este projeto está hospedado no GitHub com atualizações registradas nos meses de abril e maio, conforme exigido.
 
-🧾 Conclusão
+🧾 Conclusão:
+
 Refatorar códigos com base em princípios como Clean Code e SOLID não apenas melhora a legibilidade e organização, mas também reduz a chance de bugs, facilita a manutenção e permite maior escalabilidade.
 Este projeto demonstra como técnicas simples de design podem tornar o código legado mais robusto, limpo e profissional.
 
