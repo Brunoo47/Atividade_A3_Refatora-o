@@ -25,9 +25,9 @@ Refatorar um código-fonte legado com más práticas de programação, tornando-
 
 ### 🔴 Código Original
 
-```python
-import math
-def calcular_area(tipo, a, b=0):
+```pythonimport math
+
+def area(tipo, a, b=0):
     if tipo == 'quadrado':
         return a * a
     elif tipo == 'retangulo':
@@ -35,7 +35,13 @@ def calcular_area(tipo, a, b=0):
     elif tipo == 'circulo':
         return math.pi * a * a
     else:
-        return None
+        return -1
+
+print(area('quadrado', 4))
+print(area('retangulo', 4, 5))
+print(area('circulo', 3))
+print(area('triangulo', 4, 5))
+
 ```
 
 ❌ Problemas Identificados
