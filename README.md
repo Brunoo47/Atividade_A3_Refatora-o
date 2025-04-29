@@ -25,8 +25,9 @@ Refatorar um código-fonte legado com más práticas de programação, tornando-
 
 ### 🔴 Código Original
 
-```pythonimport math
+```python
 
+import math
 def area(tipo, a, b=0):
     if tipo == 'quadrado':
         return a * a
