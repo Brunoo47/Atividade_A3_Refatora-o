@@ -1,7 +1,9 @@
-💻 Refatoração de Código com Clean Code, SOLID e Design Patterns
+💻
+Refatoração de Código com Clean Code, SOLID e Design Patterns
 Este repositório apresenta a refatoração de um sistema CRUD originalmente desenvolvido com más práticas de programação. O projeto foi criado para fins acadêmicos, com o objetivo de aplicar boas práticas de engenharia de software e demonstrar a importância de um código limpo, modular e testável.
 
-🎯 Objetivo
+🎯 
+Objetivo
 Refatorar um código-fonte legado sem modificar sua funcionalidade original, tornando-o mais:
 
 📖 Legível
@@ -12,7 +14,8 @@ Refatorar um código-fonte legado sem modificar sua funcionalidade original, tor
 
 🧩 Modular
 
-🧠 Conceitos Aplicados
+🧠 
+Conceitos Aplicados
 Clean Code: nomenclaturas claras, responsabilidades bem definidas e código enxuto.
 
 Princípios SOLID: foco na responsabilidade única, inversão de dependência, e mais.
@@ -31,13 +34,21 @@ Interface: Terminal (CLI)
 
 📁 Estrutura do Projeto
 .
-├── domain/               # Entidades e regras de negócio (Modelos, Interfaces)
-├── infra/                # Implementações técnicas (banco de dados, arquivos, etc.)
-├── usecases/             # Casos de uso da aplicação
-├── interface_terminal.py # Interface de interação com o usuário via terminal
-├── CodeRefactoring.py    # Script base com a versão refatorada
-├── main.py               # Ponto de entrada da aplicação
-├── README.md             # Documentação do projeto
+├── domain/               
+# Entidades e regras de negócio (Modelos, Interfaces)
+├── infra/                
+# Implementações técnicas (banco de dados, arquivos, etc.)
+├── usecases/             
+# Casos de uso da aplicação
+├── interface_terminal.py 
+# Interface de interação com o usuário via terminal
+├── CodeRefactoring.py    
+# Script base com a versão refatorada
+├── main.py               
+# Ponto de entrada da aplicação
+├── README.md             
+# Documentação do projeto
+
 Esta estrutura segue uma abordagem inspirada na Clean Architecture, separando claramente as responsabilidades.
 
 🚀 Como Executar
