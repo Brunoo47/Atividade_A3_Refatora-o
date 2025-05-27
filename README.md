@@ -67,6 +67,3 @@ python main.py
 👨‍🎓 Sobre o Projeto
 Este projeto foi desenvolvido como parte de uma atividade acadêmica com foco em boas práticas de desenvolvimento. Ele simula um cenário real de refatoração de código legado, comum no ambiente profissional.
 
-📬 Contato
-Bruno Ostroski – https://github.com/Brunoo47
-
